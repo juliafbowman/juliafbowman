@@ -1,6 +1,6 @@
 # I'm Julia Bowman 
 🏙️ Based in Chicago  
-📓 Senior CS Student at UIC, Graduating Dec 2025  
+📓 CS at UIC, Graduated Dec 2025  
 🎐 Software Engineer at Fitch Group  
 
 ### Contact Me
